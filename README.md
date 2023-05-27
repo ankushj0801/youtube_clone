@@ -1,6 +1,6 @@
 # See the Deployment
 
-[Click To See the deployed Sit](https://polite-kheer-3f24fe.netlify.app/)
+[Click To See the deployed Site](https://polite-kheer-3f24fe.netlify.app/)
 
 # Getting Started with Create React App
 
